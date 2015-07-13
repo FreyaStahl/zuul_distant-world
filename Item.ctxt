@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=itemPosition
+comment0.target=void\ setItemPosition(Place)
+comment0.text=\r\n\ Set\ the\ item\ position\r\n
+comment1.params=
+comment1.target=Place\ getItemPosition()
+comment1.text=\r\nreturn\ the\ position\ from\ item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment2.text=\r\n\ return\ the\ name\ from\ the\ item\r\n
+comment3.params=word
+comment3.target=java.lang.String\ setItemName(java.lang.String)
+comment3.text=\r\n\ \ return\ the\ name\ from\ the\ item\ \r\n
+comment4.params=itemW
+comment4.target=int\ setItemWeight(int)
+comment4.text=\r\n\ \ Set\ the\ item\ weight\r\n
+comment5.params=
+comment5.target=int\ getItemWeight()
+comment5.text=\r\n\ return\ the\ item\ weight\r\n
+numComments=6

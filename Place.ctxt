@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=description
+comment0.target=Place(java.lang.String)
+comment0.text=\r\n\ Create\ a\ room\ described\ "description".\ Initially,\ it\ has\r\n\ no\ exits.\ "description"\ is\ something\ like\ "a\ kitchen"\ or\r\n\ "an\ open\ court\ yard".\r\n\ @param\ description\ The\ room's\ description.\r\n
+comment1.params=direction\ neighbour
+comment1.target=void\ setExits(java.lang.String,\ Place)
+comment1.text=\r\n\ Define\ the\ exits\ of\ this\ room.\ \ Every\ direction\ either\ leads\r\n\ to\ another\ room.\r\n\ @param\ direction\ to\ the\ HashMap\ \r\n\ @param\ neighbour\ to\ the\ HashMap\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ @return\ The\ description\ of\ the\ place.\r\n
+comment3.params=
+comment3.target=boolean\ getBooleanItem()
+comment3.text=\r\n\ @return\ The\ true\ or\ false\ value\ for\ an\ item\ or\ not\r\n
+comment4.params=bool
+comment4.target=boolean\ setBooleanItem(boolean)
+comment4.text=\r\n\ @return\ The\ true\ or\ false\ value\ for\ an\ item\ or\ not\r\n
+comment5.params=direction
+comment5.target=Place\ getExit(java.lang.String)
+comment5.text=\r\n\ Getter\ for\ the\ direction\ of\ exits\r\n\ @param\ return\ exits.get(direction)\r\n
+comment6.params=
+comment6.target=java.lang.String\ getExitString()
+comment6.text=\r\n\ Creates\ an\ keySet\ for\ every\ exits.\r\n\ @return\ returnString\r\n
+comment7.params=
+comment7.target=java.lang.String\ getLongDescription()
+comment7.text=\r\n\ Creates\ an\ String\ with\ the\ information\r\n\ about\ the\ current\ descripiton\ of\ the\ place\r\n\ and\ the\ available\ exits.\r\n\ @return\ You\ are\ +\ description\ +\ \r\n\ \ \ \ \ \ \ \ \ \ \ +\ getExitString\r\n
+numComments=8

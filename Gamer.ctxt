@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gamer()
+comment1.params=
+comment1.target=int\ getHealth()
+comment1.text=\r\n\ return\ your\ current\ health\r\n
+comment2.params=currenthealth
+comment2.target=int\ setHealth(int)
+comment2.text=\r\n\ Set\ the\ \ current\ health\r\n
+comment3.params=item
+comment3.target=void\ addItem(Item)
+comment3.text=\r\n\ Add\ the\ new\ Item\ and\ put\ that\ in\ the\ pocket\r\n
+comment4.params=
+comment4.target=void\ getPocket()
+comment4.text=\r\n\ \ return\ the\ ArrayList\ "pocket"\r\n
+comment5.params=it
+comment5.target=void\ removeItem(Item)
+numComments=6
